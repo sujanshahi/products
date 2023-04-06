@@ -1,0 +1,46 @@
+{
+    "status":[
+    {
+        "Id":1,
+        "Course":"Yoga",
+        "Personal Trainers":09,
+        "General Trainers":08,
+        "Total":17
+    },
+    {
+        "Id":2,
+        "Course":"Aerobics",
+        "Personal Trainers":12,
+        "General Trainers":10,
+        "Total":22
+    },
+      {
+        "Id":3,
+        "Course":"Fitness",
+        "Personal Trainers":14,
+        "General Trainers":12,
+        "Total":26
+    },
+      {
+        "Id":4,
+        "Course":"Body Building",
+        "Personal Trainers":11,
+        "General Trainers":09,
+        "Total":20
+    },
+      {
+        "Id":5,
+        "Course":"Zumba",
+        "Personal Trainers":15,
+        "General Trainers":12,
+        "Total":27
+    },
+      {
+        "Id":6,
+        "Course":"Flexibility",
+        "Personal Trainers":07,
+        "General Trainers":05,
+        "Total":12
+    }
+  ]
+}
