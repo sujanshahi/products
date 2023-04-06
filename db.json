@@ -3,8 +3,8 @@
     {
         "Id":1,
         "Course":"Yoga",
-        "Personal Trainers":09,
-        "General Trainers":08,
+        "Personal Trainers":9,
+        "General Trainers":8,
         "Total":17
     },
     {
@@ -25,7 +25,7 @@
         "Id":4,
         "Course":"Body Building",
         "Personal Trainers":11,
-        "General Trainers":09,
+        "General Trainers":9,
         "Total":20
     },
       {
@@ -38,8 +38,8 @@
       {
         "Id":6,
         "Course":"Flexibility",
-        "Personal Trainers":07,
-        "General Trainers":05,
+        "Personal Trainers":7,
+        "General Trainers":5,
         "Total":12
     }
   ]
